@@ -1,0 +1,12 @@
+{
+    "development" : {
+        "username": "user",
+        "password": "duddndtncks1",
+        "database": "example_db",
+        "host": "tutorial-db-instance.ceiytp1ca4bl.us-east-2.rds.amazonaws.com",
+        "port": 3306,
+        "dialect": "mysql"
+    },
+
+    "salt" : "sdf645r5w4je6f356sas41d123fn5re6w24jh123fjqulasdhaskudhsdidj"
+}
